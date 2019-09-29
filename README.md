@@ -1,1 +1,1 @@
-# scoreboard
+Scoreboard page built using React
