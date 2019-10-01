@@ -1,4 +1,5 @@
 <h2>Scoreboard app built with React</h2>
+<p>All project files are in <strong>src</strong> folder. The app lets user add/remove scores for players and delete players.</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
